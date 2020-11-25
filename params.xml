@@ -1,0 +1,11 @@
+<?xml version="1.0" ?> 
+<inputs>
+    <maxIter> 100000 </maxIter>     <!--  Number of Iterations . --> 
+    <epsilon> 0.00005 </epsilon>    <!--  Convergence Precision . --> 
+    <nx> 100 </nx>
+    <ny> 80 </ny> 
+    <Da> 30.0 </Da>                  <!-- Damkohler number . --> 
+    <D> 0.5 </D>                    <!-- Diffusion Coefficient . --> 
+    <C_0> 10.0 </C_0>               <!--  Concentration at left boundary . --> 
+    <C_eq> 1.0 </C_eq>              <!--  equilibrium concentration . --> 
+</inputs> 

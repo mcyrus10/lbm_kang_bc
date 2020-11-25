@@ -1,0 +1,11 @@
+__pycache__/
+kang_bc_D2Q5.o
+kang_bc_D2Q5
+log.temp
+notes.md
+figures/
+compare.py
+tmp/
+finiteDifference.py
+finiteDifferenceContour.dat
+.vscode
